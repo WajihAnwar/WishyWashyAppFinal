@@ -1,0 +1,13 @@
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>YourBundleIdentifier</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Use</string>
+
+    <!-- Add the LSApplicationQueriesSchemes key here -->
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>http</string>
+        <string>https</string>
+    </array>
+</dict>
